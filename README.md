@@ -24,6 +24,13 @@ ResolveDesk leverages a role-based workflow tailored for **Students** (submittin
 
 ---
 
+## 🔗 Live Deployments
+
+- **Frontend Application (Vercel)**: [https://agentic-ai-cms.vercel.app/](https://agentic-ai-cms.vercel.app/)
+- **Backend API Service (Render)**: [https://agentic-ai-cms.onrender.com](https://agentic-ai-cms.onrender.com)
+
+---
+
 ## 💻 Technology Stack
 
 - **Frontend**: React (Vite), Tailwind CSS, React Router v6, Zustand (State Management), Axios, Lucide React
